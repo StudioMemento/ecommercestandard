@@ -1,0 +1,526 @@
+{
+  "purpose": "Private Memento fashion ecommerce proposal with replaceable retailer identity",
+  "rightsCaveat": "Downloaded from official brand/retailer websites for private prototype evaluation. No open reuse license found. BESTSELLER sites display all-rights-reserved notices. Confirm approved wholesale/media rights before public commercial deployment. This manifest does not establish stock, prices, availability or retailer affiliation.",
+  "assets": [
+    {
+      "id": "hero-jj-official",
+      "brand": "JACK & JONES",
+      "name": "Editorial hero: denim group seated on stone steps",
+      "role": "hero",
+      "sourcePage": "https://regioneast.bestseller.com/brands/jack-jones",
+      "sourceImage": "https://a.storyblok.com/f/173138/1800x1201/e7a2729bff/jack-jones_ongoing_large_mb_dna_location_25-26_6.jpg",
+      "width": 1800,
+      "height": 1201,
+      "bytes": 611206,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "layoutNotes": "Text-free. Adaptable 16:9 crop; subjects occupy middle/lower two thirds. Contains male and female brand models; do not label womenswear as ONLY."
+    },
+    {
+      "id": "only-campaign-portrait",
+      "brand": "ONLY",
+      "name": "Editorial portrait: blue denim top and jeans against blue wall",
+      "role": "editorial",
+      "sourcePage": "https://bestsellerspain.com/only/",
+      "sourceImage": "https://bestsellerspain.com/wp-content/uploads/2025/03/ONLY_fall_winter_2025_large_241116_18_ONLY_IMAGE_SS25_OS_15344091_15359064_15347093_15325796_1144.jpg",
+      "width": 1201,
+      "height": 1800,
+      "bytes": 208607,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "layoutNotes": "Text-free tall 2:3 editorial. Good for women category panel; blue wall and denim."
+    },
+    {
+      "id": "jj-glenn-slim",
+      "brand": "JACK & JONES",
+      "name": "GLENN BASIC SQ 223 NOOS — blue, slim fit",
+      "role": "product",
+      "sourcePage": "https://www.jackjones.com/en-gb/product/12243592_3561/slim-fit-low-rise-jeans",
+      "sourceImage": "https://images.jackjones.com/12243592/4313146/005/jackjones-jjiglennjjbasicsq223noos-blue.jpg",
+      "width": 1400,
+      "height": 1866,
+      "bytes": 177022,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Uomo",
+      "fit": "Slim",
+      "downloadUrl": "https://images.jackjones.com/12243592/4313146/005/jackjones-jjiglennjjbasicsq223noos-blue.jpg?width=1400&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.jackjones.com/12243592/4313146/004/jackjones-jjiglennjjbasicsq223noos-blue.jpg",
+        "downloadUrl": "https://images.jackjones.com/12243592/4313146/004/jackjones-jjiglennjjbasicsq223noos-blue.jpg?width=1400&quality=90",
+        "width": 1400,
+        "height": 1866,
+        "bytes": 186249,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "jj-alex-baggy",
+      "brand": "JACK & JONES",
+      "name": "ALEX ORIGINAL SBD 306 NOOS — black, baggy fit",
+      "role": "product",
+      "sourcePage": "https://www.jackjones.com/en-gb/product/12236089_2103/baggy-fit-high-rise-jeans",
+      "sourceImage": "https://images.jackjones.com/12236089/4227280/005/jackjones-jjialexjjoriginalsbd306noos-black.jpg",
+      "width": 1400,
+      "height": 1867,
+      "bytes": 158831,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Uomo",
+      "fit": "Baggy",
+      "downloadUrl": "https://images.jackjones.com/12236089/4227280/005/jackjones-jjialexjjoriginalsbd306noos-black.jpg?width=1400&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.jackjones.com/12236089/4227280/004/jackjones-jjialexjjoriginalsbd306noos-black.jpg",
+        "downloadUrl": "https://images.jackjones.com/12236089/4227280/004/jackjones-jjialexjjoriginalsbd306noos-black.jpg?width=1400&quality=90",
+        "width": 1400,
+        "height": 1867,
+        "bytes": 146815,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "jj-liam-skinny",
+      "brand": "JACK & JONES",
+      "name": "LIAM ORIGINAL AKM 773 NOOS — black, skinny fit",
+      "role": "product",
+      "sourcePage": "https://www.jackjones.com/en-gb/product/12237365_2103/skinny-fit-low-rise-jeans",
+      "sourceImage": "https://images.jackjones.com/12237365/4239524/005/jackjones-jjiliamjjoriginalakm773noos-black.jpg",
+      "width": 1400,
+      "height": 1867,
+      "bytes": 117148,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Uomo",
+      "fit": "Skinny",
+      "downloadUrl": "https://images.jackjones.com/12237365/4239524/005/jackjones-jjiliamjjoriginalakm773noos-black.jpg?width=1400&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.jackjones.com/12237365/4239524/004/jackjones-jjiliamjjoriginalakm773noos-black.jpg",
+        "downloadUrl": "https://images.jackjones.com/12237365/4239524/004/jackjones-jjiliamjjoriginalakm773noos-black.jpg?width=1400&quality=90",
+        "width": 1400,
+        "height": 1867,
+        "bytes": 144532,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "ons-weft-regular",
+      "brand": "ONLY & SONS",
+      "name": "WEFT Mid waist Regular Fit Jeans — dark blue",
+      "role": "product",
+      "sourcePage": "https://www.onlyandsons.com/en-gb/product/22027900_2114/regular-fit-jeans",
+      "sourceImage": "https://images.onlyandsons.com/22027900/4363645/003/onlysons-onsweftreg7900eyboxjeansnoos-blue.jpg",
+      "width": 1800,
+      "height": 2400,
+      "bytes": 449442,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Uomo",
+      "fit": "Regular",
+      "downloadUrl": "https://images.onlyandsons.com/22027900/4363645/003/onlysons-onsweftreg7900eyboxjeansnoos-blue.jpg?width=1800&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.onlyandsons.com/22027900/4363645/004/onlysons-onsweftreg7900eyboxjeansnoos-blue.jpg",
+        "downloadUrl": "https://images.onlyandsons.com/22027900/4363645/004/onlysons-onsweftreg7900eyboxjeansnoos-blue.jpg?width=1800&quality=90",
+        "width": 1800,
+        "height": 2400,
+        "bytes": 237259,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "ons-loom-slim",
+      "brand": "ONLY & SONS",
+      "name": "LOOM Mid rise Slim Fit Jeans — black",
+      "role": "product",
+      "sourcePage": "https://www.onlyandsons.com/en-gb/product/22010448_2103/slim-fit-jeans",
+      "sourceImage": "https://images.onlyandsons.com/22010448/2798671/003/onlysons-onsloomslimblack0448diadnmnoos-black.jpg",
+      "width": 1800,
+      "height": 2400,
+      "bytes": 226919,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Uomo",
+      "fit": "Slim",
+      "downloadUrl": "https://images.onlyandsons.com/22010448/2798671/003/onlysons-onsloomslimblack0448diadnmnoos-black.jpg?width=1800&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.onlyandsons.com/22010448/2798671/004/onlysons-onsloomslimblack0448diadnmnoos-black.jpg",
+        "downloadUrl": "https://images.onlyandsons.com/22010448/2798671/004/onlysons-onsloomslimblack0448diadnmnoos-black.jpg?width=1800&quality=90",
+        "width": 1800,
+        "height": 2400,
+        "bytes": 147685,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "ons-fade-loose",
+      "brand": "ONLY & SONS",
+      "name": "FADE Loose Fit Jeans — light blue",
+      "role": "product",
+      "sourcePage": "https://www.onlyandsons.com/en-gb/product/22031024_2116/loose-fit-jeans",
+      "sourceImage": "https://images.onlyandsons.com/22031024/4609147/003/onlysons-onsfadelooseboxpimdnmnoos-blue.jpg",
+      "width": 1800,
+      "height": 2400,
+      "bytes": 459771,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Uomo",
+      "fit": "Loose",
+      "downloadUrl": "https://images.onlyandsons.com/22031024/4609147/003/onlysons-onsfadelooseboxpimdnmnoos-blue.jpg?width=1800&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.onlyandsons.com/22031024/4609147/004/onlysons-onsfadelooseboxpimdnmnoos-blue.jpg",
+        "downloadUrl": "https://images.onlyandsons.com/22031024/4609147/004/onlysons-onsfadelooseboxpimdnmnoos-blue.jpg?width=1800&quality=90",
+        "width": 1800,
+        "height": 2400,
+        "bytes": 319301,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "only-blush-straight",
+      "brand": "ONLY",
+      "name": "BLUSH Mid waist Straight Fit Jeans — blue",
+      "role": "product",
+      "sourcePage": "https://www.only.com/en-de/product/15330787_2115/straight-fit-mid-waist-jeans",
+      "sourceImage": "https://images.only.com/15330787/4575098/003/only-onlblushmidstraightdnmrea12187noos-blue.jpg",
+      "width": 1800,
+      "height": 2400,
+      "bytes": 530907,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Donna",
+      "fit": "Straight",
+      "downloadUrl": "https://images.only.com/15330787/4575098/003/only-onlblushmidstraightdnmrea12187noos-blue.jpg?width=1800&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.only.com/15330787/4575098/004/only-onlblushmidstraightdnmrea12187noos-blue.jpg",
+        "downloadUrl": "https://images.only.com/15330787/4575098/004/only-onlblushmidstraightdnmrea12187noos-blue.jpg?width=1800&quality=90",
+        "width": 1800,
+        "height": 2400,
+        "bytes": 291733,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "only-emily-straight",
+      "brand": "ONLY",
+      "name": "EMILY High waist Straight Fit Ankle length Jeans — black",
+      "role": "product",
+      "sourcePage": "https://www.only.com/en-de/product/15235780_2103_907783/straight-fit-high-waist-jeans",
+      "sourceImage": "https://images.only.com/15235780/3789845/003/only-onlemilyhwstraightankdnmnas997noos-black.jpg",
+      "width": 1800,
+      "height": 2600,
+      "bytes": 205294,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Donna",
+      "fit": "Straight",
+      "downloadUrl": "https://images.only.com/15235780/3789845/003/only-onlemilyhwstraightankdnmnas997noos-black.jpg?width=1800&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.only.com/15235780/3789845/004/only-onlemilyhwstraightankdnmnas997noos-black.jpg",
+        "downloadUrl": "https://images.only.com/15235780/3789845/004/only-onlemilyhwstraightankdnmnas997noos-black.jpg?width=1800&quality=90",
+        "width": 1800,
+        "height": 2400,
+        "bytes": 296817,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "only-madison-wide",
+      "brand": "ONLY",
+      "name": "MADISON High waist Wide Leg Fit Jeans — light blue",
+      "role": "product",
+      "sourcePage": "https://www.only.com/en-de/product/15282975_2116/wide-leg-fit-high-waist-jeans",
+      "sourceImage": "https://images.only.com/15282975/4117702/003/only-onlmadisonblushhwwidednmcro371noos-blue.jpg",
+      "width": 1800,
+      "height": 2400,
+      "bytes": 550001,
+      "format": "JPEG",
+      "license": "No open reuse license identified; rights remain with brand/retailer and photographer.",
+      "gender": "Donna",
+      "fit": "Wide",
+      "downloadUrl": "https://images.only.com/15282975/4117702/003/only-onlmadisonblushhwwidednmcro371noos-blue.jpg?width=1800&quality=90",
+      "stockStatus": "Not verified at Valber; prototype only",
+      "alternate": {
+        "sourceImage": "https://images.only.com/15282975/4117702/004/only-onlmadisonblushhwwidednmcro371noos-blue.jpg",
+        "downloadUrl": "https://images.only.com/15282975/4117702/004/only-onlmadisonblushhwwidednmcro371noos-blue.jpg?width=1800&quality=90",
+        "width": 1800,
+        "height": 2400,
+        "bytes": 271498,
+        "angle": "Back view, visually verified; same product and color"
+      }
+    },
+    {
+      "id": "top-woman-front",
+      "brand": "ONLY",
+      "name": "ONLKITA T-shirt",
+      "role": "front",
+      "sourcePage": "https://www.only.com/en-nl/product/15367568_5_1252173/regular-fit-round-neck-t-shirt",
+      "sourceImage": "https://images.only.com/15367568/4956901/003/only-onlkitaregs-sprinttopnoos-white.jpg?v=00e65ff9c270a4a055797a365929ffcd&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/top-woman-front.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "top-woman-back",
+      "brand": "ONLY",
+      "name": "ONLKITA T-shirt",
+      "role": "back",
+      "sourcePage": "https://www.only.com/en-nl/product/15367568_5_1252173/regular-fit-round-neck-t-shirt",
+      "sourceImage": "https://images.only.com/15367568/4956901/004/only-onlkitaregs-sprinttopnoos-white.jpg?v=a655e118cbb90c2046aa6451c4d77328&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/top-woman-back.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "top-woman-detail",
+      "brand": "ONLY",
+      "name": "ONLKITA T-shirt",
+      "role": "detail",
+      "sourcePage": "https://www.only.com/en-nl/product/15367568_5_1252173/regular-fit-round-neck-t-shirt",
+      "sourceImage": "https://images.only.com/15367568/4956901/007/only-onlkitaregs-sprinttopnoos-white.jpg?v=5f3874cf91b32bbe2aabde5dc0c220f6&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/top-woman-detail.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "knit-woman-front",
+      "brand": "ONLY",
+      "name": "ONLLESLY Cardigan",
+      "role": "front",
+      "sourcePage": "https://www.only.com/en-de/product/15385227_31_1325033/regular-fit-v-neck-ribbed-cuffs-knit-cardigan",
+      "sourceImage": "https://images.only.com/15385227/5135728/001/only-onlleslyl-sopencardiganesknt-white.jpg?v=d74583ebedaa66a5d3bd6a30062e6e0b&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/knit-woman-front.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "knit-woman-back",
+      "brand": "ONLY",
+      "name": "ONLLESLY Cardigan",
+      "role": "back",
+      "sourcePage": "https://www.only.com/en-de/product/15385227_31_1325033/regular-fit-v-neck-ribbed-cuffs-knit-cardigan",
+      "sourceImage": "https://images.only.com/15385227/5135728/002/only-onlleslyl-sopencardiganesknt-white.jpg?v=335fff1050fe6ad85cdb14867b555c9c&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/knit-woman-back.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "knit-woman-detail",
+      "brand": "ONLY",
+      "name": "ONLLESLY Cardigan",
+      "role": "detail",
+      "sourcePage": "https://www.only.com/en-de/product/15385227_31_1325033/regular-fit-v-neck-ribbed-cuffs-knit-cardigan",
+      "sourceImage": "https://images.only.com/15385227/5135728/007/only-onlleslyl-sopencardiganesknt-white.jpg?v=62d633f899308d2f94561050c72ff0a3&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/knit-woman-detail.jpg",
+      "width": 768,
+      "height": 1023,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "jacket-woman-front",
+      "brand": "ONLY",
+      "name": "ONLMONZA Blazer",
+      "role": "front",
+      "sourcePage": "https://www.only.com/en-de/product/15363857_132/regular-fit-reverse-blazer",
+      "sourceImage": "https://images.only.com/15363857/4911887/003/only-onlmonzal-sopenblazercctlr-beige.jpg?v=680db96a9d18aa9d45a53e2b60d67c5a&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/jacket-woman-front.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "jacket-woman-back",
+      "brand": "ONLY",
+      "name": "ONLMONZA Blazer",
+      "role": "back",
+      "sourcePage": "https://www.only.com/en-de/product/15363857_132/regular-fit-reverse-blazer",
+      "sourceImage": "https://images.only.com/15363857/4911887/004/only-onlmonzal-sopenblazercctlr-beige.jpg?v=5f5b7053f44a47afb3a8a7ea6fa95fcd&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/jacket-woman-back.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "jacket-woman-detail",
+      "brand": "ONLY",
+      "name": "ONLMONZA Blazer",
+      "role": "detail",
+      "sourcePage": "https://www.only.com/en-de/product/15363857_132/regular-fit-reverse-blazer",
+      "sourceImage": "https://images.only.com/15363857/4911887/007/only-onlmonzal-sopenblazercctlr-beige.jpg?v=761906bce8ff7adca0cebec0776765d5&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/jacket-woman-detail.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "dress-woman-front",
+      "brand": "ONLY",
+      "name": "ONLMOLLY Long dress",
+      "role": "front",
+      "sourcePage": "https://www.only.com/en-nl/product/15382841_1891_1316884/regular-fit-round-neck-long-dress",
+      "sourceImage": "https://images.only.com/15382841/5110842/003/only-onlmollys-ssmockdresscsjrs-green.jpg?v=0b97b04ff18b3ae10227477198accf69&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/dress-woman-front.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "dress-woman-back",
+      "brand": "ONLY",
+      "name": "ONLMOLLY Long dress",
+      "role": "back",
+      "sourcePage": "https://www.only.com/en-nl/product/15382841_1891_1316884/regular-fit-round-neck-long-dress",
+      "sourceImage": "https://images.only.com/15382841/5110842/004/only-onlmollys-ssmockdresscsjrs-green.jpg?v=c593b020c9cbaf70f478a0a4ccbaf978&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/dress-woman-back.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "dress-woman-detail",
+      "brand": "ONLY",
+      "name": "ONLMOLLY Long dress",
+      "role": "detail",
+      "sourcePage": "https://www.only.com/en-nl/product/15382841_1891_1316884/regular-fit-round-neck-long-dress",
+      "sourceImage": "https://images.only.com/15382841/5110842/007/only-onlmollys-ssmockdresscsjrs-green.jpg?v=a8d38358cafc9d164a13810b2c46f24b&format=auto&width=768&quality=95&key=productTile_mainImage-TABLET&bg-color=%23f5f5f5&dpr=1",
+      "localPath": "public/images/dress-woman-detail.jpg",
+      "width": 768,
+      "height": 1024,
+      "license": "Official ONLY image; private demo, reuse permission unverified."
+    },
+    {
+      "id": "tee-essential-detail",
+      "brand": "JACK & JONES",
+      "role": "detail",
+      "sourcePage": "https://www.jackjones.com/en-it/product/12156101_2206_695428/standard-fit-o-neck-t-shirt",
+      "sourceImage": "https://images.jackjones.com/12156101/3077456/007/jackjones-jjeorganicbasicteesso-necknoos-white.jpg?v=2b727148b246eb37b4be8909c5e0b4fd&format=auto&width=700&quality=90&key=productTile_mainImage-DESKTOP&bg-color=%23f5f5f5",
+      "localPath": "public/images/tee-essential-detail.jpg",
+      "license": "Official brand image, private demo; reuse permission unverified."
+    },
+    {
+      "id": "knit-eric-detail",
+      "brand": "ONLY & SONS",
+      "role": "detail",
+      "sourcePage": "https://www.onlyandsons.com/en-nl/product/22029952_4041/regular-fit-crew-neck-pullover",
+      "sourceImage": "https://images.onlyandsons.com/22029952/4524138/007/onlysons-onsericreg12struccrewknitnoos-grey.jpg?v=904a548e1cf32864da9bab88c14667df&format=auto&width=700&quality=90&key=productTile_mainImage-DESKTOP&bg-color=%23f5f5f5",
+      "localPath": "public/images/knit-eric-detail.jpg",
+      "license": "Official brand image, private demo; reuse permission unverified."
+    },
+    {
+      "id": "hoodie-ceres-detail",
+      "brand": "ONLY & SONS",
+      "role": "detail",
+      "sourcePage": "https://www.onlyandsons.com/en-nl/product/22018685_1318/regular-fit-hoodie-sweatshirt",
+      "sourceImage": "https://images.onlyandsons.com/22018685/3933702/007/onlysons-onscereshoodiesweatnoos-blue.jpg?v=ee6bbe4c81f07c709407b5e38955cf12&format=auto&width=700&quality=90&key=productTile_mainImage-DESKTOP&bg-color=%23f5f5f5",
+      "localPath": "public/images/hoodie-ceres-detail.jpg",
+      "license": "Official brand image, private demo; reuse permission unverified."
+    }
+  ],
+  "v5_menswear": [
+    {
+      "product_id": "tee-essential",
+      "source_page": "https://www.jackjones.com/en-it/product/12156101_2206_695428/standard-fit-o-neck-t-shirt",
+      "front_source": "https://images.jackjones.com/12156101/3077456/003/jackjones-jjeorganicbasicteesso-necknoos-white.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=0caa61d16d1790f609c36ef3839e3cfb&width=700",
+      "back_source": "https://images.jackjones.com/12156101/3077456/004/jackjones-jjeorganicbasicteesso-necknoos-white.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=5bc94a97a1073fe5ddaca3a6eecfa6b5&width=700",
+      "files": [
+        "/images/tee-essential.jpg",
+        "/images/tee-essential-back.jpg"
+      ],
+      "reuse": "Official brand ecommerce photography, attributed to JACK & JONES / ONLY & SONS (BESTSELLER). No open reuse license or commercial redistribution permission was found on the product page; rights remain with the respective brand/rightsholder. Gathered for the requested private prototype.",
+      "price_sizes_stock": "Demonstration values, not merchant inventory."
+    },
+    {
+      "product_id": "polo-austin",
+      "source_page": "https://www.jackjones.com/en-gb/product/12268130_7826_1153476/standard-fit-polo-polo-shirt",
+      "front_source": "https://images.jackjones.com/12268130/4766990/003/jackjones-jpraustinpolossnoos-grey.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=65adedbe5a3faa2087cf2bc1123f47b8&width=700",
+      "back_source": "https://images.jackjones.com/12268130/4766990/004/jackjones-jpraustinpolossnoos-grey.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=8102453c16d8d8e5b2ba5d42eea20aa1&width=700",
+      "files": [
+        "/images/polo-austin.jpg",
+        "/images/polo-austin-back.jpg"
+      ],
+      "reuse": "Official brand ecommerce photography, attributed to JACK & JONES / ONLY & SONS (BESTSELLER). No open reuse license or commercial redistribution permission was found on the product page; rights remain with the respective brand/rightsholder. Gathered for the requested private prototype.",
+      "price_sizes_stock": "Demonstration values, not merchant inventory."
+    },
+    {
+      "product_id": "shirt-caiden",
+      "source_page": "https://www.onlyandsons.com/en-nl/product/22012321_1863/slim-fit-shirt-collar-shirt",
+      "front_source": "https://images.onlyandsons.com/22012321/4156692/003/onlysons-onscaidenlifelssolidlinenblendnoos-green.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=3ed27a18e9ce7f02be6deab27ec1fd26&width=700",
+      "back_source": "https://images.onlyandsons.com/22012321/4156692/004/onlysons-onscaidenlifelssolidlinenblendnoos-green.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=65005ca41a576c3919b51cdab1ac89aa&width=700",
+      "files": [
+        "/images/shirt-caiden.jpg",
+        "/images/shirt-caiden-back.jpg"
+      ],
+      "reuse": "Official brand ecommerce photography, attributed to JACK & JONES / ONLY & SONS (BESTSELLER). No open reuse license or commercial redistribution permission was found on the product page; rights remain with the respective brand/rightsholder. Gathered for the requested private prototype.",
+      "price_sizes_stock": "Demonstration values, not merchant inventory."
+    },
+    {
+      "product_id": "hoodie-ceres",
+      "source_page": "https://www.onlyandsons.com/en-nl/product/22018685_1318/regular-fit-hoodie-sweatshirt",
+      "front_source": "https://images.onlyandsons.com/22018685/3933702/001/onlysons-onscereshoodiesweatnoos-blue.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=da5c7acc3c101c51d13af1bec9543a13&width=700",
+      "back_source": "https://images.onlyandsons.com/22018685/3933702/002/onlysons-onscereshoodiesweatnoos-blue.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=59dc603f8cd1b4872796184e88ea66e4&width=700",
+      "files": [
+        "/images/hoodie-ceres.jpg",
+        "/images/hoodie-ceres-back.jpg"
+      ],
+      "reuse": "Official brand ecommerce photography, attributed to JACK & JONES / ONLY & SONS (BESTSELLER). No open reuse license or commercial redistribution permission was found on the product page; rights remain with the respective brand/rightsholder. Gathered for the requested private prototype.",
+      "price_sizes_stock": "Demonstration values, not merchant inventory."
+    },
+    {
+      "product_id": "knit-eric",
+      "source_page": "https://www.onlyandsons.com/en-nl/product/22029952_4041/regular-fit-crew-neck-pullover",
+      "front_source": "https://images.onlyandsons.com/22029952/4524138/003/onlysons-onsericreg12struccrewknitnoos-grey.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=5003da256d332b701577eefd4a3a8e62&width=700",
+      "back_source": "https://images.onlyandsons.com/22029952/4524138/004/onlysons-onsericreg12struccrewknitnoos-grey.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=9ea0f91728ca257253223042e47b4057&width=700",
+      "files": [
+        "/images/knit-eric.jpg",
+        "/images/knit-eric-back.jpg"
+      ],
+      "reuse": "Official brand ecommerce photography, attributed to JACK & JONES / ONLY & SONS (BESTSELLER). No open reuse license or commercial redistribution permission was found on the product page; rights remain with the respective brand/rightsholder. Gathered for the requested private prototype.",
+      "price_sizes_stock": "Demonstration values, not merchant inventory."
+    },
+    {
+      "product_id": "jacket-everyday",
+      "source_page": "https://www.onlyandsons.com/en-nl/product/22012339_2161/high-neck-jacket",
+      "front_source": "https://images.onlyandsons.com/22012339/2958489/003/onlysons-onsmikepuracerjacketotwnoos-black.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=23834584664663e4f138eb7900ac751f&width=700",
+      "back_source": "https://images.onlyandsons.com/22012339/2958489/004/onlysons-onsmikepuracerjacketotwnoos-black.jpg?bg-color=%23f5f5f5&format=auto&key=productTile_mainImage-DESKTOP&quality=90&v=203f6eb6ae6692aad8f368ce51f080d2&width=700",
+      "files": [
+        "/images/jacket-everyday.jpg",
+        "/images/jacket-everyday-back.jpg"
+      ],
+      "reuse": "Official brand ecommerce photography, attributed to JACK & JONES / ONLY & SONS (BESTSELLER). No open reuse license or commercial redistribution permission was found on the product page; rights remain with the respective brand/rightsholder. Gathered for the requested private prototype.",
+      "price_sizes_stock": "Demonstration values, not merchant inventory."
+    }
+  ],
+  "v5_video": {
+    "source_page": "https://www.jackjones.com/en-nl",
+    "observed_on": "2026-09-07",
+    "campaign": "JACK & JONES CRM Drop 9 trousers / city menswear",
+    "desktop_source": "https://videos.jackjones.com/jj_crm_drop9_trousers_16x9.mp4?v=2683eeb1eb426af04e3d7aaac2f73358",
+    "mobile_source": "https://videos.jackjones.com/jj_crm_drop9_trousers_1x1.mp4?v=e3808a81bff00dcd6b6d5e888dd8a481",
+    "local_files": [
+      "/video/jj-city-wide.mp4",
+      "/video/jj-city-square.mp4",
+      "/video/jj-city-wide-poster.jpg",
+      "/video/jj-city-square-poster.jpg"
+    ],
+    "processing": "Official 8.9-second film, complete visual sequence retained; audio removed; H.264 24fps, 1280px wide / 720px square, faststart. Posters extracted from 3.2 seconds. Responsive alternatives from the same campaign, not different campaigns.",
+    "reuse": "Official brand campaign used for private prototype evaluation only. No open reuse license identified; commercial media approval remains a launch dependency."
+  },
+  "proposal_identity": {
+    "brand": "Memento",
+    "source": "User-supplied LOGO TXT SVG_Black.svg, recovered from their files; original vector copied without modification.",
+    "local_file": "/brand/memento-wordmark.svg",
+    "configuration": "app/storefront.ts controls display name, logo path, width, height and metadata.",
+    "note": "Provisional proposal identity. Existing third-party product and campaign imagery remains credited separately."
+  }
+}
